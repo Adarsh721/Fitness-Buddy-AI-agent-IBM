@@ -1,3 +1,4 @@
+<img width="950" height="892" alt="AI agent 3" src="https://github.com/user-attachments/assets/f05ba89d-4d13-4b62-9577-ffe001ddccf8" />
 # Fitness-Buddy-AI-agent-IBM
 Your smart travel buddy—plant tips, book stays, suggest sports—all tailored just for you!
 
